@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Dantas Crispim👋
 
-<!--
-**dantascrispim/dantascrispim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About 
+I'm a Web Developer. And, I'm studyng web development at [Rocketseat](https://www.rocketseat.com.br//)
 
-Here are some ideas to get you started:
+#### Current stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡️ Main language: `Javascript`
+- 📡 Backend: `Nodejs`
+- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 📦 Version code control: `Git & Github`
+- 🔨 Toold: `VsCode`, `Marckdown`
+- 🌎 I'm mostly active within the `Rocktseat Community`
+
+#### Contacts
+- 📧 Email: dantas10.crispim@gmail.com
+- 👤 Linkedin:  https://www.linkedin.com/in/dantas-crispim-721114b0/
+  
