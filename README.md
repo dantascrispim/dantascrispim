@@ -15,5 +15,5 @@ I'm a Web Developer. And, I'm studyng web development at [Rocketseat](https://ww
 
 #### Contacts
 - 📧 Email: dantas10.crispim@gmail.com
-- 👤 Linkedin:  https://www.linkedin.com/in/dantas-crispim-721114b0/
+- 👨‍💻 Linkedin:  https://www.linkedin.com/in/dantas-crispim-721114b0/
   
